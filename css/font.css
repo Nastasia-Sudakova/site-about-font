@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'AngleciaProDisplay';
+    src: url("../AngleciaProDispay/Anglecia-Pro-Display-ExtraLight.ttf") format("ttf"),
+         url("../AngleciaProDispay/angleciaprodisplay-extralightit.otf") format("otf"),
+         url("../AngleciaProDispay/Anglecia-Pro-Display-W01-Light.ttf") format("ttf"),
+         url("../AngleciaProDispay/angleciaprodisplay-lightitalic.otf") format("otf"),
+         url("../AngleciaProDispay/anglecia-pro-display-regular.otf") format("otf"),
+         url("../AngleciaProDispay/anglecia-pro-display-italic.otf") format("otf"),
+         url("../AngleciaProDispay/Anglecia-Pro-Display-Medium.ttf") format("ttf"),
+         url("../AngleciaProDispay/angleciaprodisplay-mediumitalic.otf") format("otf"),
+         url("../AngleciaProDispay/angleciaprodisplay-semibold.otf") format("otf"),
+         url("../AngleciaProDispay/angleciaprodisplay-semiboldital.otf") format("otf"),
+         url("../AngleciaProDispay/Anglecia-Pro-Display-Bold.ttf") format("ttf"),
+         url("../AngleciaProDispay/Anglecia-Pro-Display-Bold-Italic.ttf") format("ttf"),
+         url("../AngleciaProDispay/Anglecia-Pro-Display-W01-Black.ttf") format("ttf"),
+         url("../AngleciaProDispay/angleciaprodisplay-blackitalic.otf") format("otf");
+        font-style: extralight;
+        font-style: extralightitalic;
+        font-style: light;
+        font-style: lightitalic;
+        font-style: regular;
+        font-style: italic;
+        font-style: medium;
+        font-style: mediumitalic;
+        font-style: semibold;
+        font-style: semibolditalic;
+        font-style: bold;
+        font-style: bolditalic;
+        font-style: black;
+        font-style: blackitalic;
+}
+
+a{
+    font-family: 'AngleciaProDisplay';
+}
